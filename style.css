@@ -1,0 +1,18 @@
+
+li {
+    list-style-type: none;
+}
+
+#descricao{
+    height: 200px !important; 
+}
+
+#pesquisar-todo {
+    width: 250px !important;
+}
+
+.disabled {
+    opacity: 0.6; 
+    pointer-events: none; 
+    background-color: #f8f9fa;
+}
